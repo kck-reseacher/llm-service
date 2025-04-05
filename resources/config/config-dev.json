@@ -1,0 +1,59 @@
+{
+	"postgres": {
+		"host": "MTAuMTAuMzcuMTA0",
+		"port": "MTU0MzI=",
+		"database": "cG9zdGdyZXM=",
+		"id": "ZXhlbWFp",
+		"password": "MQ=="
+},
+	"clickhouse": {
+		"nginx": {
+				"host": "MTAuMTAuMzcuMTA0",
+				"port": "MTc3NzY="
+		},
+		"database": "eGFpb3Bz",
+		"id": "YWk=",
+		"password": "VGVFbW82NHk="
+        },
+	"logpresso":{
+		"host": "MTAuMTAuMzQuMjE=",
+		"port": "MTg4ODg=",
+		"id": "YWlfc3BhcnNlX2Rldg==",
+		"password": "YWlhaWFpYWkxQCM="
+},
+	"api_server": {
+			"host": "10.10.37.104",
+			"port": "14569"
+},
+	"backend_api": {
+		"host": "10.10.37.104",
+		"port": "14569"
+},
+	"mlc": {
+		"host": "10.10.37.104",
+		"port": "14568"
+},
+	"train_api_server": {
+		"host": "10.10.37.104",
+		"port": "14566"
+},
+	"redis_server": {
+		"master": {
+				"host": "10.10.37.104",
+				"port": "17778"
+		},
+		"slave": {
+				"host": "10.10.37.104",
+				"port": "17778"
+		}
+},
+	"kafka": {
+			"host": "10.10.37.104",
+			"port": "19092"
+	},
+	"milvus": {
+		"host": "10.10.37.104",
+		"port": "19530"
+	},
+	"sys_id": "102"
+}
