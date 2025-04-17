@@ -1,3 +1,3 @@
 # llm-service
 
-![LLMOps](image/LLMOps.JPG)
+![LLMOps](image/LLMOps.png)
